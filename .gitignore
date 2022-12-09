@@ -1,0 +1,21 @@
+# OS specific
+.DS_Store
+
+# IDEs
+.idea
+.vscode
+*.swp
+
+# python
+__pycache__/
+.coverage/
+.mypy_cache/
+.pytest_cache/
+.venv/
+dist/
+
+# secrets
+.env
+
+# inputs
+aoc2022/**/input
